@@ -25,4 +25,4 @@ Amazon は取り込み時に1回取得したあと自前CDN(`m.media-amazon.com`
 Amazon は URL をキャッシュするため、**差し替えるときは必ずファイル名を変える**こと。
 
 ## 公開URL
-`https://raw.githubusercontent.com/saitaichi/listing-images/main/<パス>`
+`https://raw.githubusercontent.com/SaceCaciy/listing-images/main/<パス>`
